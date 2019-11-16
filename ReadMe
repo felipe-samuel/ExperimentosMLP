@@ -1,0 +1,16 @@
+# PROJETO 1 – EXPERIMENTO MLP
+
+Utilizar a rede MLP para:
+<UL>
+<LI>Realizar testes com 3(ou mais) datasets selecionados do repositório da UCI (iris, etc...) para várias configuração da rede;
+<LI>Ilustrar graficamente o processo de aprendizagem pela redução do erro quadrático médio; 
+<LI>Entregar um relatório descrevendo os experimentos. 
+</UL>
+
+Considerar:
+<UL>
+<LI>Impacto do termo de momentum
+<LI>Impacto da regularização L2
+</UL>
+
+Os experimentos se encontram no caderno mlp_experiments.ipynb, as tabelas completas geradas no diretório results e os datasets usados em datasets 
