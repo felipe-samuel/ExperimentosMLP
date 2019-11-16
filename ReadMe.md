@@ -4,8 +4,8 @@ Projeto 1 para diciplina de Redes Neurais do Programa de Pós-Graduação em Ci�
 
 O projeto tem como objetivos utilizar a rede MLP para:
 
-*Realizar testes com 3(ou mais) datasets selecionados do repositório da UCI (iris, etc...) para várias configuração da rede;
-*Considerar impacto do termo de momentum da regularização L2.
+* Realizar testes com 3(ou mais) datasets selecionados do repositório da UCI (iris, etc...) para várias configuração da rede;
+* Considerar impacto do termo de momentum da regularização L2.
 
 
 Conteudo do diretório:
