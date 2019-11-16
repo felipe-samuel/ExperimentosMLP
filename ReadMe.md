@@ -2,7 +2,7 @@
 
 Esse repositório comtem projetos para diciplina de Redes Neurais do Programa de Pós-Graduação em Ciência da Computação da UNIFESP.
 
-Eles estão na forma de cadernos interativos feitos com o ambiênte computacional
+Eles estão na forma de cadernos interativos feitos com o ambiente computacional
 Jupter Notebook.  
 
 Conteudo do diretório:
