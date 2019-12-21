@@ -5,7 +5,7 @@ Esse repositório contem projetos para discíplina de Redes Neurais do Programa 
 Eles estão na forma de cadernos interativos feitos com o ambiente computacional
 Jupyter Notebook.
 
-A visualização ideal desses cadernos ocorre no github, por meio dos arquivos .ipynb ou HTML, encontrados em [https://github.com/felipe-samuel/NeuralNetworksProjects](https://github.com/felipe-samuel/NeuralNetworksProjects). Os arquivos PDF podem apresentar algumas imagens e tabelas em condições não ideais.
+A visualização ideal desses cadernos ocorre no github, por meio dos arquivos .ipynb, encontrados em [https://github.com/felipe-samuel/NeuralNetworksProjects](https://github.com/felipe-samuel/NeuralNetworksProjects). Os arquivos PDF podem apresentar algumas imagens e tabelas em condições não ideais.
 
 Conteudo do diretório:
 * **project_01-mlp_experiments.ipynb**: caderno que contem o código e o relatório sobre o projeto 01, onde foram realizados experimentos com a rede MLP;
