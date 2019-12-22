@@ -1,0 +1,7 @@
+Os arquivos desses experimentos podem ser encontrados no github em:
+https://github.com/felipe-samuel/NeuralNetworksProjects
+
+Esse diretório contém o relatório nos formatos html, ipynb e pdf, alem do codigo utilizado no arquivo .py.
+A visualização ideal do relatório ocorre pelo arquivo HTML, ipynb ou acessando github citado anteriormente e abrindo o arquivo ipynb correspondente.
+O relatório em PDF pode apresentar as tabelas e imagens de maneira não ideal.  
+
